@@ -1,0 +1,16 @@
+[
+  {
+    "date": "2026-10-21",
+    "title": "Meet the agent crew",
+    "text": "Our daily development now runs on a crew of AI agents, with a person deciding what ships and merging it. Read how the work flows from report to release.",
+    "link": "/nieuw/agentic-coding/",
+    "linkText": "Agentic coding"
+  },
+  {
+    "date": "2026-10-21",
+    "title": "Moxa-2-PrintVis is now an adapter",
+    "text": "The former Moxa-2-PrintVis app has been replaced by the IoT-2-PrintVis Connector, with one adapter for Moxa and one for ifm moneo.",
+    "link": "/nieuw/products/iot2printvis/",
+    "linkText": "See the Connector and adapters"
+  }
+]
