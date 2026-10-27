@@ -1,11 +1,19 @@
 [
   {
+    "date": "2026-10-27",
+    "title": "See you at Directions EMEA 2026",
+    "text": "I'm in Paris this week for Directions EMEA 2026 (27-29 October), the event for the Business Central partner community. Interested in IoT, PrintVis integrations or our AI agents for BC development? Get in touch.",
+    "link": "https://www.directionsforpartners.com/emea2026",
+    "linkText": "About the event"
+  },
+  {
     "date": "2026-10-22",
     "title": "New website is live!",
     "text": "Welcome to the new 1vision365.com: a fresh look, clearer product pages for IoT Link and the IoT-2-PrintVis Connector, and a closer look at how we build with agentic coding.",
     "link": "/products/",
     "linkText": "Explore the apps"
-  },  {
+  },
+  {
     "date": "2026-10-21",
     "title": "Meet the agent crew",
     "text": "Our daily development now runs on a crew of AI agents, with a person deciding what ships and merging it. Read how the work flows from report to release.",
