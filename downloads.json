@@ -8,7 +8,7 @@
         "title": "MX ActiveOPC UAServer 2.1 (Build 19051619)",
         "version": "2.1.0",
         "description": "Server software for receiving IO Logik signals",
-        "url": "https://1vision365public.blob.core.windows.net/downloads/MX-ActiveOPC_UAServer%202.1_Build19051619.zip",
+        "url": "https://1vision365public.blob.core.windows.net/downloads/MX-ActiveOPC_UAServer_2.1_Build19051619.zip",
         "size": "37.7 MB",
         "date": "2026-11-17"
       },
@@ -16,7 +16,7 @@
         "title": "MX ActiveOPC UALogger 2.1.4 (Build 24032918)",
         "version": "2.1.4",
         "description": "Logger software for sending IO Logik signals to Azure IoT Hub",
-        "url": "https://1vision365public.blob.core.windows.net/downloads/MX-ActiveOPC_UALogger%202.1.4_Build24032918.zip",
+        "url": "https://1vision365public.blob.core.windows.net/downloads/MX-ActiveOPC_UALogger_2.1.4_Build24032918.zip",
         "size": "32.6 MB",
         "date": "2026-11-17"
       }
